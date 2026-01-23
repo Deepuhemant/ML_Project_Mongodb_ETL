@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+flask
+notebook
+plotly
+dash
+fastapi
+uvicorn
+pydantic
+-e .
